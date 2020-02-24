@@ -8,9 +8,8 @@ builds:
       - amd64
       - arm64
   
-archive:
-  files:
+archives:
+  - files:
     - LICENSE.txt
     - README.md
-    - helm-annotate
     - plugin.yaml
